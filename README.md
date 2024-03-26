@@ -2,10 +2,11 @@
 ## Date: 
 
 ## AIM
-To develop a Django application to store and retrieve data from a Book database using Object Relational Mapping(ORM).
+To develop a Django application to store and retrieve data from a Railway database using Object Relational Mapping(ORM).
 
 ## Entity Relationship Diagram
-![image](https://github.com/inesh-2384/ORM/assets/146412203/7287d4c5-dd62-4b63-a724-044342a6c926)
+
+![image](https://github.com/inesh-2384/ORM/assets/146412203/e8795c9f-3ba9-4448-8feb-f9f6bef6c629)
 
 
 
@@ -47,7 +48,8 @@ class railwayAdmin(admin.ModelAdmin):
 
 
 ## OUTPUT
-![image](https://github.com/inesh-2384/ORM/assets/146412203/546f5d02-721a-4184-8e65-56f0fe33bd94)
+
+![image](https://github.com/inesh-2384/ORM/assets/146412203/1c95aa69-4af2-4ffd-b503-06f2967b8aaf)
 
 
 
