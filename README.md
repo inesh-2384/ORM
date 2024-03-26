@@ -44,10 +44,13 @@ class railway (models.Model):
 class railwayAdmin(admin.ModelAdmin):
     list_display=('train_code','train_name','start_time','End_time','start_station_code','end_station_code',)
 ```
+## Entity Relationship Diagram
+![image](https://github.com/inesh-2384/ORM/assets/146412203/7287d4c5-dd62-4b63-a724-044342a6c926)
 
 ## OUTPUT
+![image](https://github.com/inesh-2384/ORM/assets/146412203/546f5d02-721a-4184-8e65-56f0fe33bd94)
 
-![image](https://github.com/inesh-2384/ORM/assets/146412203/c0061068-6d9d-4357-83e4-89e1717f48c7)
+
 
 
 ## RESULT
